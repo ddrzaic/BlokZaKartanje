@@ -1,6 +1,6 @@
 # Blok za kartanje
 
-[Preuzimanje] (https://github.com/ddrzaic/GameScoreboard/raw/master/app/release/app-release.apk)
+[Preuzimanje aplikacije](https://github.com/ddrzaic/GameScoreboard/raw/master/app/release/app-release.apk)
 
 >Android aplikacija za zapisivanje i praćenje rezultata društvenih igara
 
