@@ -1,5 +1,7 @@
 # Blok za kartanje
 
+[Preuzimanje] (https://github.com/ddrzaic/GameScoreboard/raw/master/app/release/app-release.apk)
+
 >Android aplikacija za zapisivanje i praćenje rezultata društvenih igara
 
 >Aplikacija automatski zbraja unesene bodove i prikazuje trenutno stanje bodova
