@@ -9,3 +9,8 @@
 >Kod dizajniranja aplikacije, fokus je stavljen na efikasnost, pa će tako korisnici primijetiti da aplikacija obavlja većinu posla za što jednostavnije korištenje
 
 >Aplikacija je univerzalna, tj. može se koristiti za većinu društvenih igara.
+
+<img src="https://github.com/ddrzaic/GameScoreboard/blob/master/Screenshot_1582039107.png?raw=true">
+<img src="https://github.com/ddrzaic/GameScoreboard/blob/master/Screenshot_1582039342.png?raw=true">
+
+
