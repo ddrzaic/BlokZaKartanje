@@ -10,7 +10,7 @@
 
 >Aplikacija je univerzalna, tj. može se koristiti za većinu društvenih igara.
 
-!https://github.com/ddrzaic/GameScoreboard/blob/master/Screenshot_1582039107.png?raw=true
-!https://github.com/ddrzaic/GameScoreboard/blob/master/Screenshot_1582039342.png?raw=true
+!(https://github.com/ddrzaic/GameScoreboard/blob/master/Screenshot_1582039107.png?raw=true)
+!(https://github.com/ddrzaic/GameScoreboard/blob/master/Screenshot_1582039342.png?raw=true)
 
 
