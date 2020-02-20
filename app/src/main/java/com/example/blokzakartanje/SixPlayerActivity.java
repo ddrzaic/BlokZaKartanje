@@ -115,6 +115,8 @@ public class SixPlayerActivity extends AppCompatActivity {
                     }
                 }
                 updateBodovi();
+                InputMethodManager imm = (InputMethodManager) SixPlayerActivity.this.getSystemService(Context.INPUT_METHOD_SERVICE);
+                imm.hideSoftInputFromWindow(FinalFocus.getWindowToken(), 0);
                 show.dismiss();
             }
         });
@@ -179,6 +181,8 @@ public class SixPlayerActivity extends AppCompatActivity {
                 for(int i=0;i<6;i++){
                     tvIme[i].setText(ime[i]);
                 }
+                InputMethodManager imm = (InputMethodManager) SixPlayerActivity.this.getSystemService(Context.INPUT_METHOD_SERVICE);
+                imm.hideSoftInputFromWindow(FinalFocus.getWindowToken(), 0);
                 show.dismiss();
             }
         });

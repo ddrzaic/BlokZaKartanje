@@ -114,6 +114,8 @@ public class FivePlayerActivity extends AppCompatActivity {
                     }
                 }
                 updateBodovi();
+                InputMethodManager imm = (InputMethodManager) FivePlayerActivity.this.getSystemService(Context.INPUT_METHOD_SERVICE);
+                imm.hideSoftInputFromWindow(FinalFocus.getWindowToken(), 0);
                 show.dismiss();
             }
         });
@@ -176,6 +178,8 @@ public class FivePlayerActivity extends AppCompatActivity {
                 for(int i=0;i<5;i++){
                     tvIme[i].setText(ime[i]);
                 }
+                InputMethodManager imm = (InputMethodManager) FivePlayerActivity.this.getSystemService(Context.INPUT_METHOD_SERVICE);
+                imm.hideSoftInputFromWindow(FinalFocus.getWindowToken(), 0);
                 show.dismiss();
             }
         });

@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         sbBrojIgraca=findViewById(R.id.seekBarBrojIgraca);
+
         tvPrikazBrojIgraca=findViewById(R.id.textViewBrojIgraca);
         sbBrojIgraca.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener(){
 
@@ -39,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+        sbBrojIgraca.setProgress(2);
     }
 
 

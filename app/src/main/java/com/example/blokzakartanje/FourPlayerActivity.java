@@ -114,6 +114,8 @@ public class FourPlayerActivity extends AppCompatActivity {
                     }
                 }
                 updateBodovi();
+                InputMethodManager imm = (InputMethodManager) FourPlayerActivity.this.getSystemService(Context.INPUT_METHOD_SERVICE);
+                imm.hideSoftInputFromWindow(FinalFocus.getWindowToken(), 0);
                 show.dismiss();
             }
         });
@@ -178,6 +180,8 @@ public class FourPlayerActivity extends AppCompatActivity {
                 for(int i=0;i<4;i++){
                     tvIme[i].setText(ime[i]);
                 }
+                InputMethodManager imm = (InputMethodManager) FourPlayerActivity.this.getSystemService(Context.INPUT_METHOD_SERVICE);
+                imm.hideSoftInputFromWindow(FinalFocus.getWindowToken(), 0);
                 show.dismiss();
             }
         });
