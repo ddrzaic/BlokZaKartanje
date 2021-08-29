@@ -12,7 +12,7 @@
 
 >Aplikacija je univerzalna, tj. može se koristiti za većinu društvenih igara.
 
-<img src=https://github.com/ddrzaic/GameScoreboard/blob/master/Screenshot_1582039107.png?raw=true width="150">
+<img src="https://github.com/ddrzaic/GameScoreboard/blob/master/Screenshot_1582039107.png?raw=true" width="150">
 
 
 ![Screenshot2](https://github.com/ddrzaic/GameScoreboard/blob/master/Screenshot_1582039342.png?raw=true | width=100)
